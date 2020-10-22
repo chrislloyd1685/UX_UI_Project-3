@@ -1,4 +1,4 @@
-# UX_UI_Project-3
+
 # ExRemedy: Healthy Relationship App
 ### Group 2 Contributors
 
